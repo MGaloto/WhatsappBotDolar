@@ -22,7 +22,7 @@ url_dolar_ambito = "https://www.ambito.com/contenidos/dolar-informal.html"
 sleep(3)
 
 
-#  Ejecutar URL whatsapp
+#  Ejecutar URL whatsappp
 
 driver = webdriver.Chrome(chromedriverexe)
 driver.get("https://web.whatsapp.com/")
